@@ -4,7 +4,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 # Course links
 
-- [Moodle (for discussion forum, assignments)]([https://moodle.umons.ac.be/course/view.php?id=2785](https://moodle.umons.ac.be/mod/forum/view.php?id=271616))   
+- [Moodle (for discussion forum, assignments)](https://moodle.umons.ac.be/mod/forum/view.php?id=271616)   
 
 # Project 
 - TBA
