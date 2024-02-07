@@ -19,7 +19,8 @@ This is a repository to organize the teaching material for [Machine Learning I](
   -  Lab 1 (Feb. 13): Review of probability and statistics
   
 - Week 3 (Feb. 19-23). 
-  - ...
+  -  Lecture 3 (Feb. 21): Review of probability and statistics
+
 
 - Week 4 (Feb. 26 - Mar. 1). 
   - ...
