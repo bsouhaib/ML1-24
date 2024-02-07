@@ -12,7 +12,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
 # Content
 
 - Week 1 (Feb. 5-9). 
-  - ...
+  - Lecture 1 (Feb. 5): Introduction to Machine Learning [[slides (PDF)]](./lectures/lecture1-intro.pdf)
 
 - Week 2 (Feb. 12-16). 
   - ...
