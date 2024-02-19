@@ -19,6 +19,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
   -  Lab 1 (Feb. 13): Exploratory Data Analysis ([Tutorial](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab1/lab1_tutorial.ipynb), [Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab1/lab1_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab1/lab1_solutions.ipynb))
 
 - Week 3 (Feb. 19-23). 
+  -  Lab 2 (Feb. 19): Review of probability and statistics ([Exercises](/labs/lab2/lab2_exercises.pdf), [Solutions](/labs/lab2/lab2_solutions.pdf))
   -  Lecture 3 (Feb. 21): Review of probability and statistics
 
 
