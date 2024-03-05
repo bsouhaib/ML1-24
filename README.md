@@ -24,13 +24,13 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 
 - Week 4 (Feb. 26 - Mar. 1). 
-   -  Lecture 4 (Feb. 26): The supervised learning framework
+   -  Lecture 4 (Feb. 26): The supervised learning framework [[slides (PDF)]](./lectures/lecture3-learning-framework.pdf)
    -  Lab 3 (Feb. 26):
 
 
 - Week 5 (Mar. 4-8). 
-   -  Lecture 5 (Mar. 4): The supervised learning framework
-   -  Lab 3 (Mar. 6):
+   -  Lecture 5 (Mar. 4): The supervised learning framework (continued) + Optimal predictions [[slides (PDF)]](./lectures/lecture5-optimal-predictions.pdf)
+   -  Lecture 6 (Mar. 6): The bias/variance tradeoff + The bootstrap
 
 
 - Week 6 (Mar. 11-15). 
