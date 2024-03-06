@@ -30,7 +30,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 - Week 5 (Mar. 4-8). 
    -  Lecture 5 (Mar. 4): The supervised learning framework (continued) + Optimal predictions [[slides (PDF)]](./lectures/lecture5-optimal-predictions.pdf)
-   -  Lecture 6 (Mar. 6): The bias/variance tradeoff + The bootstrap
+   -  Lecture 6 (Mar. 6): The bias/variance tradeoff [[slides (PDF)]](./lectures/lecture6-bias-variance.pdf) + The bootstrap [[slides (PDF)]](./lectures/lecture7-bootstrap.pdf)
 
 
 - Week 6 (Mar. 11-15). 
