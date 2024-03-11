@@ -34,8 +34,8 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 
 - Week 6 (Mar. 11-15). 
- -  Lecture 7 (Mar. 11): Linear regression [[slides (PDF)]](./lectures/lecture8-linear-regression.pdf) 
- -  Lab 4 (Mar. 12):
+  -  Lecture 7 (Mar. 11): Linear regression [[slides (PDF)]](./lectures/lecture8-linear-regression.pdf) 
+  -  Lab 4 (Mar. 12):
     
 - Week 7 (Mar. 18-22). 
   - ...
