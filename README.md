@@ -24,14 +24,16 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 
 - Week 4 (Feb. 26 - Mar. 1). 
+  - Lecture 4 (Feb. 26): The supervised learning framework [[slides (PDF)]](./lectures/lecture3-learning-framework.pdf)
   - Lab 3 (Feb. 26) Introduction to regression and classification with Scikit-Learn ([Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab3/lab3_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab3/lab3_solutions.ipynb))
-
 - Week 5 (Mar. 4-8). 
-  - ...
+   -  Lecture 5 (Mar. 4): The supervised learning framework (continued) + Optimal predictions [[slides (PDF)]](./lectures/lecture5-optimal-predictions.pdf)
+   -  Lecture 6 (Mar. 6): The bias/variance tradeoff [[slides (PDF)]](./lectures/lecture6-bias-variance.pdf) + The bootstrap [[slides (PDF)]](./lectures/lecture7-bootstrap.pdf)
+
 
 - Week 6 (Mar. 11-15). 
+  -  Lecture 7 (Mar. 11): Linear regression [[slides (PDF)]](./lectures/lecture8-linear-regression.pdf) 
   - Lab 4 (Mar. 12) Model selection using scikit-learn ([Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab4/lab4_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab4/lab4_solutions.ipynb))
-
 - Week 7 (Mar. 18-22). 
   - ...
 
