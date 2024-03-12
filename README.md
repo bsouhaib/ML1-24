@@ -15,22 +15,22 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lecture 1 (Feb. 5): Introduction to Machine Learning [[slides (PDF)]](./lectures/lecture1-intro.pdf)
 
 - Week 2 (Feb. 12-16). 
-  -  Lecture 2 (Feb. 12): Review of probability and statistics
-  -  Lab 1 (Feb. 13): Exploratory Data Analysis ([Tutorial](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab1/lab1_tutorial.ipynb), [Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab1/lab1_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab1/lab1_solutions.ipynb))
+  - Lecture 2 (Feb. 12): Review of probability and statistics
+  - Lab 1 (Feb. 13): Exploratory Data Analysis ([Tutorial](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab1/lab1_tutorial.ipynb), [Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab1/lab1_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab1/lab1_solutions.ipynb))
 
 - Week 3 (Feb. 19-23). 
-  -  Lab 2 (Feb. 19): Review of probability and statistics ([Exercises](/labs/lab2/lab2_exercises.pdf), [Solutions](/labs/lab2/lab2_solutions.pdf))
-  -  Lecture 3 (Feb. 21): Review of probability and statistics
+  - Lab 2 (Feb. 19): Review of probability and statistics ([Exercises](/labs/lab2/lab2_exercises.pdf), [Solutions](/labs/lab2/lab2_solutions.pdf))
+  - Lecture 3 (Feb. 21): Review of probability and statistics
 
 
 - Week 4 (Feb. 26 - Mar. 1). 
-  - ...
+  - Lab 3 (Feb. 26) Introduction to regression and classification with Scikit-Learn ([Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab3/lab3_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab3/lab3_solutions.ipynb))
 
 - Week 5 (Mar. 4-8). 
   - ...
 
 - Week 6 (Mar. 11-15). 
-  - ...
+  - Lab 4 (Mar. 12) Model selection using scikit-learn ([Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab4/lab4_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab4/lab4_solutions.ipynb))
 
 - Week 7 (Mar. 18-22). 
   - ...
