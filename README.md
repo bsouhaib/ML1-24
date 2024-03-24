@@ -34,11 +34,12 @@ This is a repository to organize the teaching material for [Machine Learning I](
 - Week 6 (Mar. 11-15). 
   - Lecture 7 (Mar. 11): Linear regression [[slides (PDF)]](./lectures/lecture8-linear-regression.pdf) 
   - Lab 4 (Mar. 12) Model selection using scikit-learn ([Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab4/lab4_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab4/lab4_solutions.ipynb))
-- Week 7 (Mar. 18-22). 
+- Week 7 (Mar. 18-22).
+  - Lecture 8 (Mar. 18): Linear regression 
   - Lab 5 (Mar. 20) Bias-variance tradeoff ([Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab5/lab5_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab5/lab5_solutions.ipynb))
 
 - Week 8 (Mar. 25-29). 
-  - ...
+  - Lecture 9 (Mar. 25): Linear classification 
 
 
 **Spring Break**
