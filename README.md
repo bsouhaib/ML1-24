@@ -40,6 +40,8 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 - Week 8 (Mar. 25-29). 
   - Lecture 9 (Mar. 25): Linear classification 
+  - Lab 6 (Mar. 26) The bootstrap ([Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab6/lab6_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab6/lab6_solutions.ipynb))
+
 
 
 **Spring Break**
