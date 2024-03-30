@@ -39,7 +39,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lab 5 (Mar. 20) Bias-variance tradeoff ([Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab5/lab5_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab5/lab5_solutions.ipynb))
 
 - Week 8 (Mar. 25-29). 
-  - Lecture 9 (Mar. 25): Linear classification 
+  - Lecture 9 (Mar. 25): Linear classification [[slides (PDF)]](./lectures/lecture8-linear-classification.pdf) 
   - Lab 6 (Mar. 26) The bootstrap ([Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab6/lab6_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab6/lab6_solutions.ipynb))
 
 
