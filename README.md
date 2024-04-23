@@ -50,9 +50,12 @@ This is a repository to organize the teaching material for [Machine Learning I](
 - Week 9 (Apr. 15-19). 
   - Lab 7 (Apr. 16) Linear regression ([Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab7/lab7_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab7/lab7_solutions.ipynb))
   - Lab 8 (Apr. 17) Classification ([Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab8/lab8_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab8/lab8_solutions.ipynb)
+  - Lecture 10 (Apr. 19): Tree-based methods [[slides (PDF)]](./lectures/lecture10-tree-based-methods.pdf) 
+
     
 - Week 10 (Apr. 22-26). 
-  - ...
+  - Lecture 11 (Apr. 23): Tree-based methods [[slides (PDF)]](./lectures/lecture11-dimension-reduction.pdf) 
+
     
 - Week 11 (Apr. 29 - May 3). 
   - ...
