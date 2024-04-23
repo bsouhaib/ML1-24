@@ -54,7 +54,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
     
 - Week 10 (Apr. 22-26). 
-  - Lecture 11 (Apr. 23): Tree-based methods [[slides (PDF)]](./lectures/lecture11-dimension-reduction.pdf) 
+  - Lecture 11 (Apr. 23): Dimension reduction [[slides (PDF)]](./lectures/lecture11-dimension-reduction.pdf) 
 
     
 - Week 11 (Apr. 29 - May 3). 
