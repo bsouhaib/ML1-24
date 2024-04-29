@@ -61,7 +61,8 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - ...
 
 - Week 12 (May 6-10). 
-  - ...
+  - Lecture 12 (May 8):
+  - Lecture 13 (May 10):
 
 - Week 13 (May 13-17). 
-  - ...
+  - Lecture 14 (May 15):
