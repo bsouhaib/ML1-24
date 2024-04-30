@@ -58,7 +58,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
     
 - Week 11 (Apr. 29 - May 3). 
-  - ...
+  - Lab 11 (Apr. 30) Tree-based methods (theory) ([Exercises](/labs/lab11/lab11_exercises.pdf), [Solutions](/labs/lab11/lab11_solutions.pdf))
 
 - Week 12 (May 6-10). 
   - ...
