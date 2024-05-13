@@ -61,8 +61,8 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lab 11 (Apr. 30) Tree-based methods (theory) ([Exercises](/labs/lab11/lab11_exercises.pdf), [Solutions](/labs/lab11/lab11_solutions.pdf))
 
 - Week 12 (May 6-10). 
-  - Lecture 12 (May 8):
-  - Lecture 13 (May 10):
+  - Lecture 12 (May 8): The perceptron
+  - Lecture 13 (May 10): Neural Networks 
 
 - Week 13 (May 13-17). 
   - Lecture 14 (May 15):
