@@ -55,12 +55,15 @@ This is a repository to organize the teaching material for [Machine Learning I](
     
 - Week 10 (Apr. 22-26). 
   - Lecture 11 (Apr. 23): Dimension reduction [[slides (PDF)]](./lectures/lecture11-dimension-reduction.pdf) 
-
+  - Lab 9 (Apr. 24): Classification theory ([Exercises](/labs/lab9/lab9_exercises.pdf), [Solutions](/labs/lab9/lab9_solutions.pdf))
+  - Lab 10 (Apr. 26): Regularization ([Exercises theory](/labs/lab10/Lab_regularization_2024_exercises.pdf), [Solutions theory](/labs/lab10/Lab_regularization_2024_solutions.pdf), [Exercises practice](/labs/lab10/Lab_regularization_2024_exercises.ipynb), [Solutions practice](/labs/lab10/Lab_regularization_2024_solutions.ipynb)) 
     
 - Week 11 (Apr. 29 - May 3). 
   - Lab 11 (Apr. 30) Tree-based methods (theory) ([Exercises](/labs/lab11/lab11_exercises.pdf), [Solutions](/labs/lab11/lab11_solutions.pdf))
 
 - Week 12 (May 6-10). 
+  - Lab 12 (May 6): Tree-based methods (practice) ([Exercises](/labs/lab12/Lab12_TreeBasedMethods_exercises.ipynb), [Solutions](/labs/lab12/Lab12_TreeBasedMethods_solutions.ipynb))
+  - Lab 13 (May 7): Dimension reduction ([Exercises theory](/labs/lab13/lab_pca_exercises.pdf), [Solutions theory](/labs/lab13/lab_pca_solutions.pdf), [Exercises practice](/labs/lab13/Lab_pca_exercises.ipynb), [Solutions practice](/labs/lab13/Lab_pca_solutions.ipynb)) 
   - Lecture 12 (May 8): The perceptron
   - Lecture 13 (May 10): Neural Networks 
 
