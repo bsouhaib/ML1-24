@@ -65,9 +65,9 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lab 12 (May 6): Tree-based methods (practice) ([Exercises](/labs/lab12/Lab12_TreeBasedMethods_exercises.ipynb), [Solutions](/labs/lab12/Lab12_TreeBasedMethods_solutions.ipynb))
   - Lab 13 (May 7): Dimension reduction ([Exercises theory](/labs/lab13/lab_pca_exercises.pdf), [Solutions theory](/labs/lab13/lab_pca_solutions.pdf), [Exercises practice](/labs/lab13/Lab_pca_exercises.ipynb), [Solutions practice](/labs/lab13/Lab_pca_solutions.ipynb)) 
   - Lecture 12 (May 8): The perceptron
-  - Lecture 13 (May 10): [Neural Networks (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk) 
+  - Lecture 13 (May 10): [Neural Networks (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk)  (Chapters 1 and 2)
 
 
 - Week 13 (May 13-17). 
-  - Lecture 14 (May 15): [Neural Networks (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk)
+  - Lecture 14 (May 15): [Neural Networks (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk)  (Chapters 3 and 4) + Revision
   - Project presentations (May 17)
