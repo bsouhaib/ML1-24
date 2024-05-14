@@ -69,5 +69,5 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 
 - Week 13 (May 13-17). 
-  - Lecture 14 (May 15): [Neural Networks (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk)  (Chapters 3 and 4) + Revision
+  - Lecture 14 (May 14): [Neural Networks (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk)  (Chapters 3 and 4) + Revision
   - Project presentations (May 17)
