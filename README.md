@@ -70,4 +70,5 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 - Week 13 (May 13-17). 
   - Lecture 14 (May 14): [Neural Networks (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk)  (Chapters 3 and 4) + Revision
+  - Lab 14 (May 15): Perceptron ([Exercises](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab14/lab14_perceptron_exercises.ipynb), [Solutions](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab14/lab14_perceptron_solutions.ipynb)), backpropagation ([Exercises](/labs/lab14/lab14_backprop_exercises.pdf), [Solutions](/labs/lab14/lab14_backprop_solutions.pdf)), and intro to PyTorch ([Tutorial](https://colab.research.google.com/github/bsouhaib/ML1-24/blob/master/labs/lab14/lab14_pytorch_tutorial.ipynb))
   - Project presentations (May 17)
